@@ -1,0 +1,15 @@
+.calculator {
+    width: 50%;
+    margin: 50px ;
+    padding: 2px;
+    background-color: #2714d4;
+    
+}
+table{
+    width: 100%;
+    background-color: aqua;
+    
+}
+button{
+    width: 50px;
+}
